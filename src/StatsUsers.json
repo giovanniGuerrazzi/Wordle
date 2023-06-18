@@ -1,0 +1,54 @@
+[
+  {
+    "username": "gio",
+    "password": "123",
+    "wordleScore": 6.0,
+    "gamesPlayed": 1,
+    "gamesWon": 1,
+    "gamesLost": 0,
+    "winRate": 100.0,
+    "winStreak": 1,
+    "maxWinStreak": 1,
+    "guessDistribution": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "lastWordWordle": "cyclostyle"
+  },
+  {
+    "username": "gia",
+    "password": "carry",
+    "wordleScore": 0.0,
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "winRate": 0.0,
+    "winStreak": 0,
+    "maxWinStreak": 0,
+    "guessDistribution": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "lastWordWordle": "----------"
+  }
+]
